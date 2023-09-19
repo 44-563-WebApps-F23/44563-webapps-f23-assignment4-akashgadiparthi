@@ -1,0 +1,28 @@
+speech
+{
+    color:black;
+    font-size: medium;
+}
+.direction
+{
+    background-color:lightgreen;
+    color: black;   
+    font-size:small;
+}
+.name {
+    color:darkolivegreen;
+}
+.direction:hover
+{
+    color:violet;
+    background-color:blueviolet;
+}
+.ENGSTRAND {
+    color:darksalmon;
+}
+.REGINA {
+    color:darkkhaki;
+}
+.MANDERS {
+    color:darkorange;
+}
