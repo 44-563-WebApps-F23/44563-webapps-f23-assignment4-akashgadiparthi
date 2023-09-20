@@ -1,28 +1,74 @@
-speech
+.speech
 {
     color:black;
     font-size: medium;
 }
 .direction
 {
-    background-color:lightgreen;
+    background-color:lightseagreen;
     color: black;   
     font-size:small;
 }
 .name {
-    color:darkolivegreen;
+    color:darkviolet;
 }
 .direction:hover
 {
-    color:violet;
-    background-color:blueviolet;
-}
-.ENGSTRAND {
     color:darksalmon;
+    background-color:darkgoldenrod;
+}
+.ENGSTRANDD {
+    color:peru;
 }
 .REGINA {
     color:darkkhaki;
 }
 .MANDERS {
-    color:darkorange;
+    color:darkred;
 }
+table {
+    border-color:chartreuse;
+    width:100%;
+    text-align:center;
+    padding: 0px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  th {
+     border: 3px solid;
+     border: radius 6px;
+     border-color:cornsilk;
+     color:darkred;
+     height: 40px;
+     background-color: wheat;
+  }
+  td{
+      border: 3px solid;
+      border-radius: 4px;
+      border-color: pink;
+      background-color: slategray;
+      height: 25px;
+   }
+
+   tr:hover {background-color: lightcoral;}
+   .ENGSTRAND:hover{
+    font-size: medium;
+    color: darkmagenta;
+    text-shadow: 0 0 25px rgb(225, 15, 80);
+    border-style: double;
+    border-radius: 8px;
+   }
+   .REGINA:hover{
+    font-size: medium;
+    color:darkorchid;
+    text-shadow: 0 0 20px rgb(180, 20, 60);
+    border-style: dashed;
+    border-radius: 10px;
+   }
+   .MANDERS:hover{
+    font-size: medium;
+    color: darkslateblue;
+    text-shadow: 0 0 25px rgb(210, 10, 100);
+    border-style: double;
+    border-radius: 8px;
+   }
