@@ -49,7 +49,12 @@ table {
       background-color: slategray;
       height: 25px;
    }
-
+   tr:nth-child(odd){
+    background-color:blue;
+   }
+   tr:nth-child(even){
+    background-color:green;
+   }
    tr:hover {background-color: lightcoral;}
    .ENGSTRAND:hover{
     font-size: medium;
