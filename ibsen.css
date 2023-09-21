@@ -46,7 +46,6 @@ table {
       border: 3px solid;
       border-radius: 4px;
       border-color: pink;
-      background-color: slategray;
       height: 25px;
    }
    tr:nth-child(odd){
